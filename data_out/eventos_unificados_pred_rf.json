@@ -1,0 +1,32 @@
+[
+  {
+    "homeId": 1,
+    "time": 1758727101,
+    "endTime": 1758727152,
+    "duration": 51.0,
+    "flow": 20.0,
+    "totalLiters": 17.0,
+    "predRF": "Baño",
+    "probRF": 0.5164421150869689
+  },
+  {
+    "homeId": 1,
+    "time": 1758733041,
+    "endTime": 1758733092,
+    "duration": 51.0,
+    "flow": 20.0,
+    "totalLiters": 17.0,
+    "predRF": "Cocina",
+    "probRF": 0.5099982132647655
+  },
+  {
+    "homeId": 1,
+    "time": 1758733989,
+    "endTime": 1758734040,
+    "duration": 51.0,
+    "flow": 20.0,
+    "totalLiters": 17.0,
+    "predRF": "Baño",
+    "probRF": 0.5125268509694697
+  }
+]

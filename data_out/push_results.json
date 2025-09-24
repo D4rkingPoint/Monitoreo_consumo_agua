@@ -1,0 +1,27 @@
+{
+  "mode": "per_item",
+  "ok": 3,
+  "fail": 0,
+  "responses": [
+    {
+      "status": 400,
+      "text": "{\"type\":\"https://tools.ietf.org/html/rfc9110#section-15.5.1\",\"title\":\"One or more validation errors occurred.\",\"status\":400,\"errors\":{\"$\":[\"The JSON value could not be converted to Backend.ApiEndpoints.EventController+EventPushData. Path: $ | LineNumber: 0 | BytePositionInLine: 1.\"],\"pushData\":[\"The",
+      "bulk": true
+    },
+    {
+      "status": 200,
+      "text": "",
+      "bulk": false
+    },
+    {
+      "status": 200,
+      "text": "",
+      "bulk": false
+    },
+    {
+      "status": 200,
+      "text": "",
+      "bulk": false
+    }
+  ]
+}
