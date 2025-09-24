@@ -1,6 +1,6 @@
 # Monitoreo_consumo_agua
 
-# 📌 Cómo editar y actualizar mis scripts (`obtener.py` / `VM.py`)
+# Cómo editar y actualizar los scripts (`obtener.py` / `VM.py`)
 
 Cuando `obtener.py` está corriendo como **servicio systemd**, el proceso se ejecuta en segundo plano todo el tiempo.  
 Si editas los archivos, los cambios **no se aplican automáticamente**: hay que reiniciar el servicio para que tome la nueva versión.
